@@ -19,4 +19,4 @@ class Dog
 end
 
 lassie = Dog.new("lassie")
-Dog.bark
+lassie.bark
