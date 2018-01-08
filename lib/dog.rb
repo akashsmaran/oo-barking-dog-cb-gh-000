@@ -17,8 +17,3 @@ class Dog
     puts "woof"
   end
 end
-
-lassie = Dog.new("lassie")
-lassie.name = "Red"
-lassie.name
-lassie.bark
