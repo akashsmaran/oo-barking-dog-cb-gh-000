@@ -20,4 +20,5 @@ end
 
 lassie = Dog.new("lassie")
 lassie.name = "Red"
+lassie.name
 lassie.bark
